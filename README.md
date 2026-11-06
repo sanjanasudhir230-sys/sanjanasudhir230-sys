@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Sanjana Sudhir! 👋
 
-<!--
-**sanjanasudhir230-sys/sanjanasudhir230-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science and Engineering
+(Data Science) Student
 
-Here are some ideas to get you started:
+💻 Interested in Software Development,
+Data Science and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 🌱 Learning Python, Java and SQL
+- 🔍 Exploring Machine Learning and Data Analytics
+- 🚀 Building academic and personal projects
+- 🎯 Looking for internship opportunities
+
+## Technical Skills
+- Python
+- Java
+- C
+- SQL
+- HTML & CSS
+- Flask
+- MongoDB
+- MySQL
+
+
+## Connect With Me
+https://www.linkedin.com/in/sanjana-sudhir-21b56035b
